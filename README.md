@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deepshikha Kumari.
-- 👀 I have keen interest in high voltage and deep learning - two extremely uncorrelated domains and 
+- 👀 I have keen interest in high voltage and deep learning - two extremely discrete but equally cardinal domains and 
      I enjoy working towards the amalgamation of both to find smart solutions. Personally, GitHub has been the greatest source of information and inspiration and 
      I am here to take baby steps towards contributing to this ingenious society.
 - 🌱 I am an incoming masters student at ETH Zurich in the major electrical engineering and information technology.
